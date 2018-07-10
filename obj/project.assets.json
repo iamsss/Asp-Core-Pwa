@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\desktop\\project\\AspPwa\\AspPwa.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Project\\AspPwa\\AspPwa.csproj",
       "projectName": "AspPwa",
-      "projectPath": "C:\\Users\\user\\desktop\\project\\AspPwa\\AspPwa.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Project\\AspPwa\\AspPwa.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\desktop\\project\\AspPwa\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Project\\AspPwa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
